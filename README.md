@@ -10,12 +10,16 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 1. The game has to be entirely text-based.
 2. The game must record the time played.
 3. The game must record the player name and score.
+4. the game should include emoticons, emojis or ascii images.
+5. The game should be easy to understand and play.
+
 
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 ## Proposed Solution
 
-I will design a text based game for a client who is interested in tasting their abilites. The text game will be about testing the user's ability ability in witch rituals, crystals and tarot and is construvted using the software evaluated according to the criteria shown below.
+I will design a text based game for a client who is interested in tasting their abilites. The text game will be about testing the user's ability ability in witch rituals, crystals,herbs and astrology and is constructed using the software evaluated according to the criteria shown below.
+
 
 ## Success Criteria
 1. The game has to be entirely text-based.
@@ -23,8 +27,7 @@ I will design a text based game for a client who is interested in tasting their 
 3. The game must record the player name and score.
 4. The game must have verified info (including the crystals ).
 5. The game must have a scoreboard at the end of the game showing the player's name and score.
-6. The game must be available in Turkish (tr) and English (en).
-7. The game must give a tip of recommondation after every chapter.
+
 
 
 # Criteria B: Design
@@ -32,7 +35,7 @@ I will design a text based game for a client who is interested in tasting their 
 ## System Diagram
 
 ## Flow Diagrams
-
+![](flow_chart1.jpeg)
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
