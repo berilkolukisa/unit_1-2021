@@ -42,15 +42,15 @@ I will design a text based game for a client who is interested in tasting their 
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|    1     |      Planning how the game will go, which topics I want to include and what vibe I want my game to give.         |                 |               |                        |           |
+|    1     |      Planning how the game will go, which topics I want to include and what vibe I want my game to give.         | I have a general idea of how I want my game to be about, the storyline and the vibe that I want my game to give.                |               |                        |           |
 |    2    |         Searching for ASCII images, emoticons and emojis that I can use in my game to make it look more visually pleasing .    |  Finding out that I don't want to add any ASCII images or emoticons to my game since they don't fit the aesthetic of the game and one of the goals is the game to be visually satisfying.               |               |                        |           |
-|      3   |    Starting to write the beginning part of the code where it asks for user's name .      |  Having a basic intro to have my game will look like .               |               |                        |           |
-|    4   |         Learning some user-friendly psychological tricks that I can use   | Adding the user-title part to my game to have give some optional parts in the game to the user which I've relised while researching that helps the user to connect to the product more.                |               |                        |           |
-|    3     |       Deciding the points where I will use as checkpoints and  |                 |               |                        |           |
-|    4    |          WDDWDA      |                 |               |                        |           |
-|    5    |          WDDWDA      |                 |               |                        |           |
-|    6     |          WDDWDA      |                 |               |                        |           |
-|    7    |          WDDWDA      |                 |               |                        |           |
-|    8     |          WDDWDA      |                 |               |                        |           |
+|      3   |    Starting to write the beginning part of the code where it asks for user's name .      |  Having a basic intro to how my game will look like .               |               |                        |           |
+|    4   |         Learning some user-friendly psychological tricks that I can use in my game.  | Adding the 'user-title' part to my game to have give some optional parts in the game to the user which I've realised while researching that helps the user to connect to the product more.                |               |                        |           |
+|    5    |       Making detailed research on the three topics that I will be using in my game(crystals,herbalogy,astrology)  |  Findint out there there were a lot of opportunities that I can write questions.               |               |                        |           |
+|    6    |         Writing the questions that I will use in the game.    |  Changing my idea of having 10 questions to 5 questions because along the way I've realised that if I have 10 questions it will cover too many topics that an average user might not know which is not a good thing if we think from user's point of view.               |               |                        |           |
+|    5    |          Grading the questions that I've wrote and listing them easy to hard.    | Having 5 question which all have different levels of easiness.                |               |                        |           |
+|    6     |         Adding the questions that I wrote to the code.      | My game nearly finishes with all the questions and the extra intro parts.                |               |                        |           |
+|    7    |         Ending the game.    |                 |               |                        |           |
+|    8     |          Doing flowcharts and system diagram.      |                 |               |                        |           |
 |    9     |          WDDWDA      |                 |               |                        |           |
 |    10     |          WDDWDA      |                 |               |                        |           |
