@@ -14,6 +14,7 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 5. The game should be easy to understand and play.
 
 
+
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 ## Proposed Solution
@@ -33,7 +34,7 @@ I will design a text based game for a client who is interested in tasting their 
 # Criteria B: Design
 
 ## System Diagram
-
+![](systemdiagram.PNG)
 ## Flow Diagrams
 ![](flow_chart1.PNG)
 ![](flow_chart2.PNG)
