@@ -35,7 +35,9 @@ I will design a text based game for a client who is interested in tasting their 
 ## System Diagram
 
 ## Flow Diagrams
+
 ![](flow_chart1.PNG)
+
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
