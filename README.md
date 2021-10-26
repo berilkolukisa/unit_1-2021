@@ -41,6 +41,6 @@ I will design a text based game for a client who is interested in tasting their 
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|         |                |                 |               |                        |           |
-|         |                |                 |               |                        |           |
-|         |                |                 |               |                        |           |
+|    1     |       AWDDWad         |                 |               |                        |           |
+|    2     |         adqawd        |                 |               |                        |           |
+|    3     |          WDDWDA      |                 |               |                        |           |
