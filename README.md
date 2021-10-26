@@ -12,6 +12,7 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 3. The game must record the player name and score.
 4. the game should include emoticons, emojis or ascii images.
 5. The game should be easy to understand and play.
+6. The game should be visually pleasing.
 
 
 
@@ -41,6 +42,15 @@ I will design a text based game for a client who is interested in tasting their 
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|    1     |       AWDDWad         |                 |               |                        |           |
-|    2     |         adqawd        |                 |               |                        |           |
-|    3     |          WDDWDA      |                 |               |                        |           |
+|    1     |      Planning how the game will go, which topics I want to include and what vibe I want my game to give.         |                 |               |                        |           |
+|    2    |         Searching for ASCII images, emoticons and emojis that I can use in my game to make it look more visually pleasing .    |  Finding out that I don't want to add any ASCII images or emoticons to my game since they don't fit the aesthetic of the game and one of the goals is the game to be visually satisfying.               |               |                        |           |
+|      3   |    Starting to write the beginning part of the code where it asks for user's name .      |  Having a basic intro to have my game will look like .               |               |                        |           |
+|    4   |         Learning some user-friendly psychological tricks that I can use   | Adding the user-title part to my game to have give some optional parts in the game to the user which I've relised while researching that helps the user to connect to the product more.                |               |                        |           |
+|    3     |       Deciding the points where I will use as checkpoints and  |                 |               |                        |           |
+|    4    |          WDDWDA      |                 |               |                        |           |
+|    5    |          WDDWDA      |                 |               |                        |           |
+|    6     |          WDDWDA      |                 |               |                        |           |
+|    7    |          WDDWDA      |                 |               |                        |           |
+|    8     |          WDDWDA      |                 |               |                        |           |
+|    9     |          WDDWDA      |                 |               |                        |           |
+|    10     |          WDDWDA      |                 |               |                        |           |
