@@ -35,7 +35,7 @@ I will design a text based game for a client who is interested in tasting their 
 # Criteria B: Design
 
 ## System Diagram
-![](systemdiagram.PNG)
+![](system_diagram.PNG)
 ## Flow Diagrams
 ![](flow_chart1.PNG)
 ![](flow_chart2.PNG)
