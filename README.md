@@ -40,6 +40,10 @@ I will design a text based game for a client who is interested in tasting their 
 ![](flow_chart1.PNG)
 ![](flow_chart2.PNG)
 ![](flow_chart3.PNG)
+## Functional Testing
+| Type of testing | Part to test | Question asked | Input | Expected Output | Status |
+|---------|----------------|-----------------|---------------|------------------------|-----------|
+
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
