@@ -46,6 +46,7 @@ I will design a text based game for a client who is interested in tasting their 
 |---------|----------------|-----------------|---------------|------------------------|-----------|
 | Unit Testing | The code to assign a label to the user | 🦋 Now please choose a label for yourself. This will stick your name throughout the game🦋 🧚 press 1 for fairy  🧙‍ press 2 for witch  🧛 press 3 for vampire | 3 |🦋Your username will be 🧛vampire' + user_name | SUCCESFUL |
 | Unit Testing| The code to understand user's answer and tells us whether it right or wrong | 🦋Which crystal you are not supposed to put in the water?  1)Clear quartz 2)Ruby  3)Aventurine  4)Tiger’s Eye | 2 |🦋Your answer was right | SUCCESFUL |
+| Unit Testing | To code to combine the assigned label and the user's name | 1)🦋 Please enter your name or a name that you want to be referred🦋 2) 🦋 Now please choose a label for yourself. This will stick your name throughout the game🦋  🧚 press 1 for fairy  🧙‍ press 2 for witch   🧛 press 3 for vampire | 1)Beril 2)1 | Your username will be 🧚fairyberil|
 
 ## Source Code
 ```.py
