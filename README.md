@@ -40,11 +40,9 @@ I will design a text based game for a client who is interested in tasting their 
 ![](flow_chart1.PNG)
 ![](flow_chart2.PNG)
 ![](flow_chart3.PNG)
-## Functional Testing
-| Type of testing | Part to test | Question asked | Input | Expected output | 
-|Unit testing | If the code assigns a label to the user. | Question asked | 🦋 Now please choose a label for yourself. This will stick your name throughout the game🦋 \n 🧚 press 1 for fairy \n 🧙‍ press 2 for witch  \n 🧛 press 3 for vampire | a  | 
 ## Record of Tasks
-| Type of testing | Part to test | Question asked | Input | Expected output | 
+| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
+|---------|----------------|-----------------|---------------|------------------------|-----------|
 |    1     |      Planning how the game will go, which topics I want to include and what vibe I want my game to give.         | I have a general idea of how I want my game to be about, the storyline and the vibe that I want my game to give.                |  1-2 days           |    27 September 2021                      |           |
 |    2    |         Searching for ASCII images, emoticons and emojis that I can use in my game to make it look more visually pleasing .    |  Finding out that I don't want to add any ASCII images or emoticons to my game since they don't fit the aesthetic of the game and one of the goals is the game to be visually satisfying.               |1 day               |       2 October 2021                  |          |
 |      3   |    Starting to write the beginning part of the code where it asks for user's name .      |  Having a basic intro to how my game will look like .               |       3 days         |   7 October 2021                    |      |
